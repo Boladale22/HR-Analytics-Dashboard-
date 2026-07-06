@@ -126,6 +126,12 @@ This project uses the IBM HR Analytics Employee Attrition & Performance dataset 
 
 ---
 
+## Conclusion
+
+This HR Analytics Dashboard demonstrates how Power BI can transform employee data into actionable insights. By analyzing workforce trends and attrition drivers, the dashboard supports data-driven HR decisions that can improve employee retention and organizational performance.
+
+---
+
 ## Author
 
 Boladale Hajarat Toyosi
