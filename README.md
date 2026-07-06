@@ -135,17 +135,10 @@ This HR Analytics Dashboard demonstrates how Power BI can transform employee dat
 ## Author
 
 
-Conclusion
-────────────
-
-About the Author
-
        📷 Your GitHub profile picture
 
 Boladale Hajarat Toyosi
 Data Analyst | Statistician | Power BI Developer
-
-Short introduction...
 
 Email: toyobaby41@gmail.com
 LinkedIn: https://www.linkedin.com/in/boladale-hajarat-toyosi-2bb4a2271?utm_source=share_via&utm_content=profile&utm_medium=member_android
