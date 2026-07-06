@@ -106,6 +106,14 @@ This dashboard enables HR professionals and business leaders to:
 
 ---
 
+## Dataset Source
+
+This project uses the IBM HR Analytics Employee Attrition & Performance dataset obtained from Kaggle.
+**Source:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+**Note:** The dataset was used for educational and portfolio purposes only.
+
+---
+
 ## Author
 
 Boladale Hajarat Toyosi
