@@ -1,3 +1,5 @@
+![HR Analytics Dashboard Banner](banner.png)
+
 
 # HR Analytics Dashboard
 
