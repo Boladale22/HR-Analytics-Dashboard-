@@ -130,10 +130,12 @@ This HR Analytics Dashboard demonstrates how Power BI can transform employee dat
 
 ## Author
 
+<img src="https://avatars.githubusercontent.com/u/169123846?v=4" width="120" style="border-radius: 50%;">
 
-       <img src="https://avatars.githubusercontent.com/u/169123846?v=4" width="120" style="border-radius: 50%;">
+Boladale Hajarat Toyosi Data Analyst | Statistician | Power BI Developer
 
 
+Boladale Hajarat Toyosi Data Analyst | Statistician | Power BI Developer
 
 Boladale Hajarat Toyosi
 Data Analyst | Statistician | Power BI Developer
