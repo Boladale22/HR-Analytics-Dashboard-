@@ -140,4 +140,4 @@ Data Analyst | Statistician | Power BI Developer
 
 Email: toyobaby41@gmail.com
 LinkedIn: https://www.linkedin.com/in/boladale-hajarat-toyosi-2bb4a2271?utm_source=share_via&utm_content=profile&utm_medium=member_android
-GitHub:https://github.com/account
+GitHub:https:https://github.com/Boladale22/HR-Analytics-Dashboard-/blob/main/README.md
