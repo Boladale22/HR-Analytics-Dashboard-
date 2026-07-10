@@ -40,13 +40,13 @@ The dataset contains employee information including:
 ## Dashboard Preview
 
 ### Home Dashboard
-![Home Dashboard](hr%20img%201.png)
+![home-dashboard](hr%20img%201.png)
 
 ### Details Dashboard
-![Details Dashboard](hr%20img%202.png)
+![detail-dashboard](hr%20img%202.png)
 
 ### Action Dashboard
-![Action Dashboard](hr%20img%203.png)
+![action-dashboard](hr%20img%203.png)
 
 ---
 
